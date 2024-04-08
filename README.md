@@ -26,7 +26,7 @@ Some music with some code for enough to make a good code.
 - Source: [feature/Chat_William](./lib/feature/chat_william/)
 
 ### Custom Sign Up
-<a href="https://github.com/VB10/only_code/blob/main/github/ss_ice_cream.png"> <img src="https://github.com/VB10/only_code/blob/main/github/ss_ice_cream.png?raw=true" height="200"/></a>
+<a href="https://github.com/VB10/only_code/blob/main/github/ss_custom_sign_up.png"> <img src="https://github.com/VB10/only_code/blob/main/github/ss_custom_sign_up.png?raw=true" height="200"/></a>
 - Video: TODO
 - Source: [feature/Custom Sign Up](./lib/feature/custom_sign_up/)
 
