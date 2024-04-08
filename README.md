@@ -43,7 +43,7 @@ Some music with some code for enough to make a good code.
 ### Rent App
 <a href="https://github.com/VB10/only_code/blob/main/github/ss_rent.png"> <img src="https://github.com/VB10/only_code/blob/main/github/ss_rent.png?raw=true" height="200"/></a>
 - Video: https://twitter.com/10VBacik/status/1775293023590482081/video/1
-- Source: [feature/Rent App](./lib/feature/rent_app/)
+- Source: [feature/Rent App](./lib/feature/rent/)
 
 ### Reset Password
 <a href="https://github.com/VB10/only_code/blob/main/github/ss_reset_password.png"> <img src="https://github.com/VB10/only_code/blob/main/github/ss_reset_password.png?raw=true" height="200"/></a>
