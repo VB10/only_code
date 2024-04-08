@@ -1,16 +1,21 @@
-# only_code
+# Only Code
+Some music with some code for enough to make a good code.
 
-A new Flutter project.
+>Those who were seen dancing were thought to be insane by those who could not hear the music...
 
-## Getting Started
+## Series
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Authentic
+    - Video: TODO
+    - Source: -
+- Chat_William
+    - Video: TODO
+    - Source: -
+- Custom Sign Up 
+- Ice Cream 
+- Lang App 
+- Rent App 
+- Reset Password
+    - ![Reset Password](./github/ss_reset_password.png)
+    - Video: https://twitter.com/10VBacik/status/1777150266791415955
+ - Video: https://twitter.com/10VBacik/status/1777150266791415955
