@@ -22,12 +22,12 @@ Some music with some code for enough to make a good code.
 
 ### Chat_William
 <a href="https://github.com/VB10/only_code/blob/main/github/ss_chat.png"> <img src="https://github.com/VB10/only_code/blob/main/github/ss_chat.png?raw=true" height="200"/></a>
-- Video: TODO
+- Video: https://twitter.com/10VBacik/status/1777495685971030096
 - Source: [feature/Chat_William](./lib/feature/chat_william/)
 
 ### Custom Sign Up
 <a href="https://github.com/VB10/only_code/blob/main/github/ss_custom_sign_up.png"> <img src="https://github.com/VB10/only_code/blob/main/github/ss_custom_sign_up.png?raw=true" height="200"/></a>
-- Video: TODO
+- Video: https://twitter.com/10VBacik/status/1777495685971030096
 - Source: [feature/Custom Sign Up](./lib/feature/custom_sign_up/)
 
 ### Ice Cream
