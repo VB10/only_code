@@ -37,7 +37,7 @@ Some music with some code for enough to make a good code.
 
 ### Lang App
 <a href="https://github.com/VB10/only_code/blob/main/github/ss_lang.png"> <img src="https://github.com/VB10/only_code/blob/main/github/ss_lang.png?raw=true" height="200"/></a>
-- Video: TODO
+- Video: https://twitter.com/i/status/1783620559558889756 
 - Source: [feature/Lang App](./lib/feature/lang_app/)
 
 ### Rent App
