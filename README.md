@@ -17,7 +17,7 @@ Some music with some code for enough to make a good code.
 
 ### Authentic
 <a href="https://github.com/VB10/only_code/blob/main/github/ss_auth.png"> <img src="https://github.com/VB10/only_code/blob/main/github/ss_auth.png?raw=true" height="200"/></a>
-- Video: TODO
+- Video: https://x.com/10VBacik/status/1793388497618768231 
 - Source: [feature/Authentic](./lib/feature/authentic/)
 
 ### Chat_William
