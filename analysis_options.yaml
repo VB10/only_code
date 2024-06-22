@@ -7,6 +7,9 @@
 
 # The following line activates a set of recommended lints for Flutter apps,
 # packages, and plugins designed to encourage good coding practices.
+analyzer:
+  errors:
+    public_member_api_docs: ignore
 include: package:very_good_analysis/analysis_options.yaml
 
 linter:
