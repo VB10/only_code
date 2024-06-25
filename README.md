@@ -32,7 +32,7 @@ Some music with some code for enough to make a good code.
 
 ### Ice Cream
 <a href="https://github.com/VB10/only_code/blob/main/github/ss_ice_cream.png"> <img src="https://github.com/VB10/only_code/blob/main/github/ss_ice_cream.png?raw=true" height="200"/></a>
-- Video: TODO
+- Video: https://x.com/10VBacik/status/1805726577390764217
 - Source: [feature/Ice Cream](./lib/feature/ice_cream/)
 
 ### Lang App
